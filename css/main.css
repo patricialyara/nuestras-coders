@@ -1,0 +1,49 @@
+hr{
+	width: 70px;
+	margin-left: 0%;
+}
+
+p{
+	color: white;
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	font-size: 15px;
+}
+
+.imagen{
+	height: 200px;
+	width: 200px;
+	position: absolute;
+}
+
+.uno{
+	background: url(../img/profile-1.png);
+}
+
+.dos{
+	background: url(../img/profile-2.png);
+	left: 250px;
+}
+
+.tres{
+	background: url(../img/profile-3.png);
+	left: 500px;
+}
+
+.cuatro{
+	background: url(../img/profile-4.png);
+	top: 300px;
+}
+
+.cinco{
+	background: url(../img/profile-5.png);
+	top: 300px;
+	left:250px;
+}
+
+.seis{
+	background: url(../img/profile-6.png);
+	top: 300px;
+	left: 500px;
+}
